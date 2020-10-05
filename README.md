@@ -11,3 +11,7 @@ Go to localhost:3000
 
 ## Track
 You can track this app: https://mastichat-app.herokuapp.com/
+
+## Credit
+
+bradtraversy
